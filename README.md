@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Monsalve</h1>
 <h3 align="center">A passionate frontend from Colombia</h3>
 
-- 🌱 I’m currently learning **node.js , react**
+- 🌱 I’m currently learning **node.js , React, Angular**
 
 - 📫 How to reach me **anamonsalve96@gmail.com**
 - ⚡ Fun fact **I like visit places,**
