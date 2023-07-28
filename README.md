@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amonsalv&label=Profile%20views&color=0e75b6&style=flat" alt="amonsalv" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js, Azure,**
+- 🌱 I’m currently learning **React, Node.js, Azure, Python and PowerBI**
 
 - 💬 Ask me about **Html, CSS**
 
