@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **React, Node.js, Azure, Python and PowerBI**
+- 🌱 I’m currently learning **Node.js, Azure, Python, Docker and PowerBI**
 
-- 💬 Ask me about **Html, CSS**
+- 💬 Ask me about **Html, CSS, Js, Github**
 
 - 📫 How to reach me **amonsalv7@gmail.com**
 
