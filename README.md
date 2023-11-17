@@ -6,13 +6,13 @@
 
 
 
-- 🌱 I’m currently learning **Node.js, Azure, Python, Docker and PowerBI**
+- 🌱 I’m currently learning **Node.js, Azure, Python **
 
-- 💬 Ask me about **Html, CSS, Js, Github**
+- 💬 Ask me about **Html, CSS, Js, Github, Docker**
 
 - 📫 How to reach me **amonsalv7@gmail.com**
 
-- ⚡ Fun fact **I like visit places🗺️,Take photos📸, Dancing💃, Music🎧🎵, Art🗿, Food🌮, Flowers🌸, Gym🏋️‍♀️, Universe✨, And a lot of things more...**
+- ⚡ Fun fact **I like places🗺️,photos📸, Dancing💃, Music🎧🎵, Art🗿, Food🌮, Flowers🌸, Gym🏋️‍♀️, Universe✨, And a lot of things more...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
