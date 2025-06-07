@@ -63,27 +63,17 @@
 |:--:|:--:|:--:|
 | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) |
 
-## 🎓 Learning Journey
+## 🎓 Experience & Learning
 
-**📚 Current Studies:**
-- 🏫 **SENA**: Technology in Software Analysis and Development
-- ☁️ **Cloud Computing**: AWS fundamentals and best practices
-- 🐳 **DevOps**: Docker, containerization, and deployment strategies
-- 🔄 **CI/CD**: GitHub Actions and automation workflows
-
-**🌱 Growing Skills:**
-- 🤖 Automation with Python and Selenium
-- 🔒 Security best practices in development
-- 📊 Software testing methodologies
-- 🌐 Modern web development frameworks
-
-## 💼 Experience
-
+**💼 Professional Experience:**
 - **🏢 Corporate Projects**: Developed solutions for large Colombian companies
 - **🏪 SMB Collaborations**: Created websites and tools for small businesses
 - **💻 Freelance Work**: Independent web development and automation projects
-- **🎓 Academic Focus**: Studying Software Analysis and Development at SENA
-- **🔧 Learning Areas**: Web development, automation, and DevOps practices
+
+**📚 Education & Current Studies:**
+- **🎓 Completed**: Technical degree as Software Development Assistant at **CESDE**
+- **🏫 Currently**: Technology in Software Analysis and Development at **SENA**
+- **☁️ Exploring**: AWS fundamentals, Docker containerization, and CI/CD with GitHub Actions
 
 ---
 
@@ -110,3 +100,4 @@ I'm always excited to discuss new projects, share knowledge about web developmen
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amonsalv-portfolio.vercel.app/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amonsalv/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_amonsalv) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amonsalv7@gmail.com)
 
 </div>
+
